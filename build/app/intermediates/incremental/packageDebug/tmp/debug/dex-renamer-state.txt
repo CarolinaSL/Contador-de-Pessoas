@@ -1,0 +1,4 @@
+#Mon Jan 06 22:47:46 BRT 2020
+base.0=/home/carolina/Documentos/workspace/contador_pessoas/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
